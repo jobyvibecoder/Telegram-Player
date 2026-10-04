@@ -1,0 +1,11 @@
+## Local Configuration Template
+## Copy this file to 'local.properties' and fill in your values.
+
+# Location of the Android SDK on your system
+# Windows example: sdk.dir=C\:\\Users\\<username>\\AppData\\Local\\Android\\Sdk
+# macOS/Linux example: sdk.dir=/Users/<username>/Library/Android/sdk
+
+# Telegram API credentials
+# Obtain your api_id and api_hash from https://my.telegram.org (under API development tools)
+telegram.api_id=0
+telegram.api_hash=YOUR_API_HASH_HERE

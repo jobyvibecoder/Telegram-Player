@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Telegram Player</string>
+    <string name="browse_title">Telegram Player</string>
+    <string name="auth_title">Login to Telegram</string>
+    <string name="scan_qr_code">Scan QR Code with Telegram App</string>
+    <string name="or_use_phone">Or enter phone number</string>
+    <string name="phone_hint">Phone number with country code</string>
+    <string name="verification_code_hint">Enter verification code</string>
+    <string name="login_button">Login</string>
+    <string name="submit_code">Submit Code</string>
+    <string name="loading">Loading...</string>
+    <string name="private_chats">Private Chats</string>
+    <string name="channels">Channels</string>
+    <string name="groups">Groups</string>
+    <string name="no_media_found">No media files found</string>
+    <string name="play_with_mx_player">Play with MX Player</string>
+    <string name="streaming_notification_title">Streaming Video</string>
+    <string name="streaming_notification_text">Telegram Player is streaming video</string>
+</resources>
+

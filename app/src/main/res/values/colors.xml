@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Dark Theme with Teal Accents -->
+    <color name="primary">#00BFA5</color>
+    <color name="primary_dark">#00897B</color>
+    <color name="primary_light">#1DE9B6</color>
+    <color name="accent">#00E5FF</color>
+    
+    <!-- Background colors -->
+    <color name="background">#0D0D0D</color>
+    <color name="background_gradient_start">#0D0D0D</color>
+    <color name="background_gradient_end">#1A1A2E</color>
+    <color name="surface">#121212</color>
+    <color name="surface_elevated">#1E1E1E</color>
+    
+    <!-- Card colors -->
+    <color name="card_background">#1A1A1A</color>
+    <color name="card_background_focused">#2A2A2A</color>
+    <color name="card_border">#333333</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#666666</color>
+    
+    <!-- Sidebar/Navigation -->
+    <color name="sidebar_background">#0A0A0A</color>
+    <color name="sidebar_selected">#00BFA5</color>
+    <color name="sidebar_text">#E0E0E0</color>
+    
+    <!-- QR Code -->
+    <color name="qr_foreground">#FFFFFF</color>
+    <color name="qr_background">#0D0D0D</color>
+    
+    <!-- Status colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+    
+    <!-- Duration/Size badge -->
+    <color name="badge_background">#80000000</color>
+    <color name="badge_text">#FFFFFF</color>
+    
+    <!-- Netflix UI -->
+    <color name="netflix_red">#E50914</color>
+    <color name="netflix_background">#141414</color>
+
+    <!-- Premium Focus Effects -->
+    <color name="focus_glow">#E8B706</color>
+    <color name="focus_border">#FFFFFF</color>
+    <color name="card_overlay_start">#00000000</color>
+    <color name="card_overlay_end">#CC000000</color>
+    <color name="card_shadow">#40000000</color>
+    <color name="poster_placeholder_start">#FF1A1A2E</color>
+    <color name="poster_placeholder_end">#FF0D0D0D</color>
+</resources>
+
+
